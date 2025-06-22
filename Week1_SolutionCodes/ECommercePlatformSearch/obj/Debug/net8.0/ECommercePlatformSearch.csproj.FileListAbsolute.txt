@@ -1,0 +1,14 @@
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.exe
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.deps.json
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.runtimeconfig.json
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.pdb
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.AssemblyInfoInputs.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.AssemblyInfo.cs
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.csproj.CoreCompileInputs.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\refint\ECommercePlatformSearch.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.pdb
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.genruntimeconfig.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\ECommercePlatformSearch\obj\Debug\net8.0\ref\ECommercePlatformSearch.dll
