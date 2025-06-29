@@ -1,0 +1,11 @@
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
