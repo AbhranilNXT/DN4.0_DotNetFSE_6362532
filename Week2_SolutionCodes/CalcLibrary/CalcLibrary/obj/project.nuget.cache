@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Gu5yLo81Ts=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhra\\Downloads\\DN4.0_DotNetFSE_6362532\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\abhra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
