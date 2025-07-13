@@ -1,6 +1,0 @@
-@DN4._0_Week5_WebAPI_HostAddress = http://localhost:5125
-
-GET {{DN4._0_Week5_WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
