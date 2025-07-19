@@ -1,0 +1,13 @@
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\bin\Debug\KafkaChatApp.exe.config
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\bin\Debug\KafkaChatApp.exe
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\bin\Debug\KafkaChatApp.pdb
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\bin\Debug\kafka-net.dll
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.csproj.AssemblyReference.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.Form1.resources
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.Properties.Resources.resources
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.csproj.GenerateResource.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.csproj.CoreCompileInputs.cache
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaCha.5408F058.Up2Date
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.exe
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.pdb
+C:\Users\abhra\Downloads\DN4.0_DotNetFSE_6362532\KafkaChatApp\obj\Debug\KafkaChatApp.exe.config
